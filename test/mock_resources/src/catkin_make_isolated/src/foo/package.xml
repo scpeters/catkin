@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>foo</name>
+  <version>0.1.0</version>
+  <description>The foo package</description>
+
+  <maintainer email="user@todo.todo">user</maintainer>
+  <license>BSD</license>
+  
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+
+  </export>
+</package>

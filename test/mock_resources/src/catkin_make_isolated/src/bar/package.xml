@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <name>bar</name>
+  <version>0.1.0</version>
+  <description>The bar package</description>
+
+  <maintainer email="user@todo.todo">user</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>foo</build_depend>
+  <run_depend>foo</run_depend>
+
+</package>
